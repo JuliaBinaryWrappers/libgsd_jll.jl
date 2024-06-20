@@ -1,127 +1,127 @@
 [[libgsd]]
 arch = "aarch64"
-git-tree-sha1 = "d4969cf95685c37204033b9615949e6865e1841a"
+git-tree-sha1 = "2c0d9a8871763c3814f61e7229e6ec4b0465f0f5"
 os = "macos"
 
     [[libgsd.download]]
-    sha256 = "774b31cba435b67c0f6259dc1c9d969c2a10f84db09601058854a69da5122200"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "ad3a1f7f4dcb3acc2ef5381f53af72e0782813d503da21192d2411a0434726dd"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.aarch64-apple-darwin.tar.gz"
 [[libgsd]]
 arch = "aarch64"
-git-tree-sha1 = "d57b28cfbe0fbc3fcbfbb7ee6f325fa909644958"
+git-tree-sha1 = "dce133da2b18113ee2185e41dfa20e583298bf67"
 libc = "glibc"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "e65a934a4e53e56f7ab3cf3ec265f6650575cf8cc0303285e7ec1c62672b03de"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "a334001e58fe703e03fceae64c0d99a31015a725ac0edb69682e268a6fc2bcec"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.aarch64-linux-gnu.tar.gz"
 [[libgsd]]
 arch = "aarch64"
-git-tree-sha1 = "b9574737970d9679c2095549eaba7b7c1a0857cf"
+git-tree-sha1 = "752b84d5bd5ccb3d3a38a6795f3ce0a41350af70"
 libc = "musl"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "baa5af7b14da380247869ed5b727942e343d27f9c8450e541470a1fc9f5a90ae"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.aarch64-linux-musl.tar.gz"
+    sha256 = "3157b6be3045dcd496acf498932e48a2a3b70206a6990b77009b44a5dbc81551"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.aarch64-linux-musl.tar.gz"
 [[libgsd]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a90b248026694f7e9ed2190cbbe1fdd90cf44dde"
+git-tree-sha1 = "5a36a23448dbbd1e59eda56c362eab35e82f0e79"
 libc = "glibc"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "024470c82eaa32373414cbe97018a2cb968b0b4532ea0785828158fa2e0885ff"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "2923ef9001c1633943b7be21b8a1dbbd4b2ca9ef878dae895f557955bbc0f4f4"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.armv6l-linux-gnueabihf.tar.gz"
 [[libgsd]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7ff4572cbd4769247d67310d894d40911f985c6d"
+git-tree-sha1 = "b1bae0c3832376c69114dbd5b2b1e22f92bd3220"
 libc = "musl"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "3feed973eb0a43b0f47a39aabddb952e10a7a9236c8b4a0dce6eb32da8784c12"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "f709c05bb76e3d0f9dfaa72d7af19196a076dc785a1eddaac5c8d92d57e8e704"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.armv6l-linux-musleabihf.tar.gz"
 [[libgsd]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8ed5161bb1aac65ea7521180019dd53d218ebfe5"
+git-tree-sha1 = "2c222fdb2d2362a664ca584e112991cb57bc0e6b"
 libc = "glibc"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "f1892bc50d17f83128e69a4d50c5f63081b7bae0517b4f88c100a6391a4d038a"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "12f55792754271127ed80d8262646599d6326bed957427eafdb4b4a357a2c514"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.armv7l-linux-gnueabihf.tar.gz"
 [[libgsd]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "fd101048bfb09696a6015ec5d3728fa1aa9431cd"
+git-tree-sha1 = "4a3cc60e1804d0b2dcd92f274290a2aa13536794"
 libc = "musl"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "32061790c9778aef8edb0e72c3b48f0584490ccb809f01592c66dd81be531b86"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "cbf4e643bd593957027b424cb74cefd5b6e1e1ea5efa721b8815a9a0e32c953d"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.armv7l-linux-musleabihf.tar.gz"
 [[libgsd]]
 arch = "i686"
-git-tree-sha1 = "22d253ff2db392fb5238b4583c8e11459e364f8d"
+git-tree-sha1 = "86272266361fa960bf5d376773890f8c898f788d"
 libc = "glibc"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "259e214871f1f727bda27478a3e41a39b3c9b5ef9e0e7b282b3ac2a9a2a7ddcb"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.i686-linux-gnu.tar.gz"
+    sha256 = "2e3f5285845975e2c518c2d30122fad3b9e24c3d685909962ffa87c736dbbaa2"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.i686-linux-gnu.tar.gz"
 [[libgsd]]
 arch = "i686"
-git-tree-sha1 = "558b2fe1bbaaa6ad8b080fe7588e3d280f9354b1"
+git-tree-sha1 = "330812084a0f8d2ffad8ee57bb81f6f071cc9a2a"
 libc = "musl"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "85a4191abf9b0a6592cdd771710d1c09311e4468f03725469b3ba52c51407cb5"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.i686-linux-musl.tar.gz"
+    sha256 = "31f4b4efc8fd8d8da5e0d19cb4f9f71c8d7100ebffd2be146983792069137297"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.i686-linux-musl.tar.gz"
 [[libgsd]]
 arch = "powerpc64le"
-git-tree-sha1 = "3be2d5fb97bedff4db092ab9c6b2f132153007f3"
+git-tree-sha1 = "9082743f99115af8a0a1f2501f96cb7a310b9277"
 libc = "glibc"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "f2243a1eb94a278237610594ddfe344d8b8af115a295ffbfd0310fd521f6bc23"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "4480508d1fd4f467c535314dff3291d1535abb751dd76c6afd990ad6ba2e8e4f"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.powerpc64le-linux-gnu.tar.gz"
 [[libgsd]]
 arch = "x86_64"
-git-tree-sha1 = "0d2331a94a6b0971cd514fbfa2a4296894487d8b"
+git-tree-sha1 = "5f6670cb1df97c4cf103c019445940b8b900fd4f"
 os = "macos"
 
     [[libgsd.download]]
-    sha256 = "0f622ecd82263b7fa13c664af163a8b33cb47f74114143926fa1c732591f3fbf"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "d1c16ea25a886b5431c05b6f7749e32ba53ddbe1702082165d1e27e074d4b7b7"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.x86_64-apple-darwin.tar.gz"
 [[libgsd]]
 arch = "x86_64"
-git-tree-sha1 = "72236006827d63ea070a2c34bbfced3ad5d994ae"
+git-tree-sha1 = "eecc389e7c1bc4804541c9a653a01d130f3c3cb2"
 libc = "glibc"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "e662ed17c73d6d18f808bbcef8a079195140cad71409770dd0a87519e5d42b9b"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "3f2d066b20481364c378116eafaf75ba22ff196ce78219102bffac568c109cce"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.x86_64-linux-gnu.tar.gz"
 [[libgsd]]
 arch = "x86_64"
-git-tree-sha1 = "f9b76a2e2c34add5eebc520c367511f61c68b2b1"
+git-tree-sha1 = "9e59b90f7924757b0477a557b2eed5dfc6d14f57"
 libc = "musl"
 os = "linux"
 
     [[libgsd.download]]
-    sha256 = "10c314ae80c06770407f7b03990f5ad3a6722ab0a3890d6ef8f3cfce7498e331"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.x86_64-linux-musl.tar.gz"
+    sha256 = "4fb64cf7c2bee0be18f8655e755c9332ada4f89a4638ec90e580698363dfc806"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.x86_64-linux-musl.tar.gz"
 [[libgsd]]
 arch = "x86_64"
-git-tree-sha1 = "5137928317ac71978fa664190d236a6c04f5ea7e"
+git-tree-sha1 = "49be8ec28164af9e3494ca55e16527b565064935"
 os = "freebsd"
 
     [[libgsd.download]]
-    sha256 = "49e4b4072b591382cacadb48716e9200e96ab574f086fa30b4fc1b2318a68bba"
-    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+0/libgsd.v3.2.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "2a21d3b344d4e39ac91c75c69ded12032a4ff54976201725ecb1f1372ec411d7"
+    url = "https://github.com/JuliaBinaryWrappers/libgsd_jll.jl/releases/download/libgsd-v3.2.1+1/libgsd.v3.2.1.x86_64-unknown-freebsd.tar.gz"
